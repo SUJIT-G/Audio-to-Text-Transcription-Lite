@@ -28,4 +28,5 @@ Open `index.html` in a modern desktop browser (Chrome / Edge recommended). The a
 
 ```bash
 git clone https://github.com/<your-username>/audio-to-text-transcription-lite.git
+
 cd audio-to-text-transcription-lite
